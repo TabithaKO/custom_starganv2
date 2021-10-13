@@ -2,11 +2,13 @@
 CS_506 Project
 
 SUMMARY
+
 We’re analyzing the performance of a Cycle GAN (StarGAN v2) when
 trained on multiple unique domains of human faces. We are also
 developing new measures for correctness of cross domain style transfer.
 
 DATA
+
 There are 3 sources of data:
 1. CelebA HQ Dataset
 2. A Black Celebrities dataset (Custom)
